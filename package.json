@@ -28,6 +28,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aiotests/cypress-aiotests-reporter.git"
+    "url": "https://github.com/david-grandfield/cypress-aiotests-reporter"
   }
 }
