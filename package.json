@@ -1,7 +1,7 @@
 {
-  "name": "cypress-aiotests-reporter",
-  "version": "1.4.1",
-  "description": "Plugin to report cypress results to AIO Tests Jira",
+  "name": "cypress-aiotests-reporter-alkami",
+  "version": "1.4.2",
+  "description": "Plugin to report cypress results to AIO Tests Jira using Alkami's settings",
   "main": "src/index.js",
   "scripts": {
     "test": "cypress run",
