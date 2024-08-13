@@ -343,9 +343,9 @@ const getOrCreateCycle = (aioConfig) => {
 function getAIORunStatus(cypressStatusString) {
     switch(cypressStatusString) {
         case "failed":
-            return "Failed";
+            return "Failed - Automated";
         case "passed":
-            return "Passed";
+            return "Passed - Automated";
         default:
             return "Not Run";
     }
